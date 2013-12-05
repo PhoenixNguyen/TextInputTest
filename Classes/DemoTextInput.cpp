@@ -70,7 +70,7 @@ bool DemoTextInput::init()
 	
 
 	Sprite* sp = Sprite::create("CloseNormal.png");
-	sp->setPosition(Point(200, 260));
+	sp->setPosition(Point(100, 230));
 	addChild(sp, 2);
 	return true;
 }

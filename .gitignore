@@ -10,9 +10,15 @@ proj.android/obj/local/*
 proj.android/assets/*
 proj.android/gen/*
 proj.android/libs/armeabi/*
+
 proj.ios/HelloCpp.xcodeproj/xcuserdata/*
 proj.ios/HelloCpp.xcodeproj/project.xcworkspace/xcuserdata/*
 proj.win32/HelloCpp.sdf
-proj.win32/RankaroGame.sdf
 proj.win32/HelloCpp.v11.suo
 proj.win32/HelloCpp.opensdf
+
+proj.ios/TextInputTest.xcodeproj/xcuserdata/*
+proj.ios/TextInputTest.xcodeproj/project.xcworkspace/xcuserdata/*
+proj.win32/TextInputTest.sdf
+proj.win32/TextInputTest.v11.suo
+proj.win32/TextInputTest.opensdf
